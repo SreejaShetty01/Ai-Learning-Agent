@@ -1,7 +1,7 @@
 # 🤖 AI Learning Agent
 
 ## 🧠 Overview
-AI Learning Agent is a system designed to simplify complex educational content into clear and easy-to-understand explanations.
+AI Learning Agent is a system designed to simplify complex educational content into clear and easy-to-understand explanations for rural Students
 
 It helps students, beginners, and non-native English speakers understand difficult topics by converting technical language into simple and structured formats.
 
